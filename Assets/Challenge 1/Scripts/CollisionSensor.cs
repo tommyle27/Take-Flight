@@ -5,8 +5,7 @@ using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 
-public class CollisionSensor : MonoBehaviour
-{
+public class CollisionSensor : MonoBehaviour {
     private ScoreManager scoreManager;
 
     public AudioClip PlaneEngineSound;
